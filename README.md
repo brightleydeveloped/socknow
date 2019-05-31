@@ -2,7 +2,7 @@
 
 Get your socks at the speed of Postmates.
 
-Create a config file with the following: 
+Create a config.js file with the following: 
 
 ```javascript
 export const POSTMATES_CUSTOMER_ID = 'cus_...';
